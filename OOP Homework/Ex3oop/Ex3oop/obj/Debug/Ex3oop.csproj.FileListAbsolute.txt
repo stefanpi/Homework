@@ -1,0 +1,2 @@
+H:\Wantsome\Ex3oop\Ex3oop\obj\Debug\Ex3oop.csprojAssemblyReference.cache
+H:\Wantsome\Ex3oop\Ex3oop\obj\Debug\Ex3oop.csproj.CoreCompileInputs.cache

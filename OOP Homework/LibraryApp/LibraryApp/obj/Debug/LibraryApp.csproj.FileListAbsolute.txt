@@ -1,0 +1,7 @@
+H:\Wantsome\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+H:\Wantsome\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+H:\Wantsome\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+H:\Wantsome\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csprojAssemblyReference.cache
+H:\Wantsome\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+H:\Wantsome\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+H:\Wantsome\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

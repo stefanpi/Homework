@@ -1,0 +1,7 @@
+H:\Wantsome\LibraryApp2.0\LibraryApp2.0\bin\Debug\LibraryApp2.0.exe.config
+H:\Wantsome\LibraryApp2.0\LibraryApp2.0\bin\Debug\LibraryApp2.0.exe
+H:\Wantsome\LibraryApp2.0\LibraryApp2.0\bin\Debug\LibraryApp2.0.pdb
+H:\Wantsome\LibraryApp2.0\LibraryApp2.0\obj\Debug\LibraryApp2.0.csprojAssemblyReference.cache
+H:\Wantsome\LibraryApp2.0\LibraryApp2.0\obj\Debug\LibraryApp2.0.csproj.CoreCompileInputs.cache
+H:\Wantsome\LibraryApp2.0\LibraryApp2.0\obj\Debug\LibraryApp2.0.exe
+H:\Wantsome\LibraryApp2.0\LibraryApp2.0\obj\Debug\LibraryApp2.0.pdb

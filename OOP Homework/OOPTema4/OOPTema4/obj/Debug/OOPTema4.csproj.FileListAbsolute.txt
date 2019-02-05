@@ -1,0 +1,7 @@
+H:\Wantsome\OOPTema4\OOPTema4\bin\Debug\OOPTema4.exe.config
+H:\Wantsome\OOPTema4\OOPTema4\bin\Debug\OOPTema4.exe
+H:\Wantsome\OOPTema4\OOPTema4\bin\Debug\OOPTema4.pdb
+H:\Wantsome\OOPTema4\OOPTema4\obj\Debug\OOPTema4.csprojAssemblyReference.cache
+H:\Wantsome\OOPTema4\OOPTema4\obj\Debug\OOPTema4.csproj.CoreCompileInputs.cache
+H:\Wantsome\OOPTema4\OOPTema4\obj\Debug\OOPTema4.exe
+H:\Wantsome\OOPTema4\OOPTema4\obj\Debug\OOPTema4.pdb

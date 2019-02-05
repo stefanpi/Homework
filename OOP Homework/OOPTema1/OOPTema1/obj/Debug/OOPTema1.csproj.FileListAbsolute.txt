@@ -1,0 +1,7 @@
+H:\Wantsome\OOPTema1\OOPTema1\obj\Debug\OOPTema1.csprojAssemblyReference.cache
+H:\Wantsome\OOPTema1\OOPTema1\obj\Debug\OOPTema1.csproj.CoreCompileInputs.cache
+H:\Wantsome\OOPTema1\OOPTema1\bin\Debug\OOPTema1.exe.config
+H:\Wantsome\OOPTema1\OOPTema1\bin\Debug\OOPTema1.exe
+H:\Wantsome\OOPTema1\OOPTema1\bin\Debug\OOPTema1.pdb
+H:\Wantsome\OOPTema1\OOPTema1\obj\Debug\OOPTema1.exe
+H:\Wantsome\OOPTema1\OOPTema1\obj\Debug\OOPTema1.pdb

@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+    <title></title>
+    <h1>Doge Social Network</h1>
+
+    <ul style="list-style-type:disc;">
+        <li><a href="file:///C:/Users/Stefan/Desktop/HTML%20Homework/Problema3/home.html"> Home</a></li>
+        <li> <a href="file:///C:/Users/Stefan/Desktop/HTML%20Homework/Problema3/profile.html">Profile</a></li>
+        <li> <a href="file:///C:/Users/Stefan/Desktop/HTML%20Homework/Problema3/friends.html"> Friends</a></li>
+    </ul>
+    <hr>
+    <h2>Welcome to the Doge Social Network</h2>
+    <hr>
+
+</head>
+<body style="background-color:cadetblue;" ></body>
+<body>
+    <p>Here you can find friends or stalk strangers</p>
+
+    <p>The Doge Social Network does not take any responsibility for the information found</p>
+
+
+</body>
+

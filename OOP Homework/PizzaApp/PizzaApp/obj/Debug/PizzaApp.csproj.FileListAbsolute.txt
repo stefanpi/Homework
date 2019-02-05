@@ -1,0 +1,7 @@
+H:\Wantsome\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe.config
+H:\Wantsome\PizzaApp\PizzaApp\bin\Debug\PizzaApp.exe
+H:\Wantsome\PizzaApp\PizzaApp\bin\Debug\PizzaApp.pdb
+H:\Wantsome\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csprojAssemblyReference.cache
+H:\Wantsome\PizzaApp\PizzaApp\obj\Debug\PizzaApp.csproj.CoreCompileInputs.cache
+H:\Wantsome\PizzaApp\PizzaApp\obj\Debug\PizzaApp.exe
+H:\Wantsome\PizzaApp\PizzaApp\obj\Debug\PizzaApp.pdb

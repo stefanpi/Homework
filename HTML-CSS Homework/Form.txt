@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <title>Form</title>
+       
+    </head>
+<body> 
+<div>
+    <p>Member Name:<input type="text" name="Member Name"><b>*req</b></p>
+    <p>Email:<input type="text" name="Email"><b>*req</b></p>
+    <p>School:<input type="text" name="School"><b>*req</b></p>    
+    
+   <button>Submit</button>
+  
+</div>
+</body>
+</html>
